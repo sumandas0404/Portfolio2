@@ -24,7 +24,7 @@ import {
     threads,
     typescript,
     cpp, python, mysql, photoshop, pre,light,figma, gfg,leetcode,
-    connect, razor, discord, portfolio, courses, weather
+    connect, razor, discord, portfolio, courses, weather,camera
 
     
 } from "../assets/icons";
@@ -221,6 +221,11 @@ export const socialLinks = [
         iconUrl: gfg,
         link: 'https://auth.geeksforgeeks.org/user/sumondas0404',
     },
+        {
+        name: 'Photography Profile',
+        iconUrl: camera,
+        link: 'http://photofolio-jet.vercel.app/',
+    }
 
 ];
 
