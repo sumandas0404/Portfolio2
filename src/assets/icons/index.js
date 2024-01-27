@@ -42,6 +42,7 @@ import weather from './weather.png'
 import portfolio from './portfolio.png'
 import courses from './courses.png'
 import photography from './photography.png'
+import camera from './camera.png'
 
 
 
@@ -89,5 +90,6 @@ export {
     discord,
     portfolio,
     weather,
-    connect,photography
+    connect,photography,
+    camera
 }
