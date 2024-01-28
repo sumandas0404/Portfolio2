@@ -24,7 +24,7 @@ import {
     threads,
     typescript,
     cpp, python, mysql, photoshop, pre,light,figma, gfg,leetcode,
-    connect, razor, discord, portfolio, courses, weather,camera
+    connect, razor, discord, portfolio, courses, weather,camera,social
 
     
 } from "../assets/icons";
@@ -285,6 +285,13 @@ export const projects = [
         name: 'Personal Photography profile',
         description: 'Explore my world through the lens. Witness moments frozen in time, stories captured in pixels. Welcome to my personal photography journey.',
         link: 'http://photofolio-jet.vercel.app/',
+    },
+     {
+        iconUrl: social,
+        theme: 'btn-back-red',
+        name: 'Connectify- Social Media App',
+        description: ' A vibrant space to share life moments through photos, stories, and connections. Join us for endless inspiration and meaningful interactions!',
+        link: 'https://connectify-by-suman.vercel.app/',
     }
 
 ];
