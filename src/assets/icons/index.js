@@ -43,6 +43,7 @@ import portfolio from './portfolio.png'
 import courses from './courses.png'
 import photography from './photography.png'
 import camera from './camera.png'
+import social from './social.png'
 
 
 
@@ -91,5 +92,5 @@ export {
     portfolio,
     weather,
     connect,photography,
-    camera
+    camera,social
 }
