@@ -242,7 +242,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Connectify App',
         description: 'Welcome to Connectify, where friendships flourish! Discover, share, and connect effortlessly. Explore diverse interests, chat, and build meaningful connections. Your social world awaits—join us today!',
-        link: 'https://github.com/sumandas0404/Connectify_App',
+        link: 'https://connectify-by-suman.vercel.app/',
     },
     {
         iconUrl: courses,
