@@ -24,7 +24,7 @@ import {
     threads,
     typescript,
     cpp, python, mysql, photoshop, pre,light,figma, gfg,leetcode,
-    connect, razor, discord, portfolio, courses, weather,camera,social
+    connect, razor, discord, portfolio, courses, weather,camera,social,expense, testimonial
 
     
 } from "../assets/icons";
@@ -286,12 +286,19 @@ export const projects = [
         description: 'Explore my world through the lens. Witness moments frozen in time, stories captured in pixels. Welcome to my personal photography journey.',
         link: 'http://photofolio-jet.vercel.app/',
     },
-     {
-        iconUrl: social,
+    {
+        iconUrl: testimonial,
         theme: 'btn-back-red',
-        name: 'Connectify- Social Media App',
-        description: ' A vibrant space to share life moments through photos, stories, and connections. Join us for endless inspiration and meaningful interactions!',
-        link: 'https://connectify-by-suman.vercel.app/',
+        name: 'Testimonial Slider',
+        description: ' Elevate your website with our dynamic testimonial slider app. Showcase customer satisfaction effortlessly. Customizable designs, easy integration, and smooth functionality make sharing positive feedback a breeze for your online presence.',
+        link: 'https://testimonal-slider.vercel.app/',
+    },
+    {
+        iconUrl: expense,
+        theme: 'btn-back-black',
+        name: 'Kharcha Tracker',
+        description: 'Effortlessly track expenses with our intuitive app. Seamlessly organize transactions, set budgets, and gain insights into your spending habits for smarter financial management. Simplify your life, one expense at a time.',
+        link: 'https://github.com/sumandas0404/KharchaTracker',
     }
 
 ];
